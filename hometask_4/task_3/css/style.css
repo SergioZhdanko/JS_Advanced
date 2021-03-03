@@ -1,0 +1,10 @@
+input {
+	width: 25%;
+	margin-bottom: 7px;
+}
+
+.incorrect_action {
+	padding: 5px;
+	color: red;
+	display: none;
+}
